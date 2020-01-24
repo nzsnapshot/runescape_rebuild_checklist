@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\Chris\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "python.testing.pytestArgs": [
+        "Rebuild_list"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
+}
